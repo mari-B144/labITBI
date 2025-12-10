@@ -1,2 +1,2 @@
 # labITBI
-echo "iulia"
+echo "iulia toader a modficat aici"
